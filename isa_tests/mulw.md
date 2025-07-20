@@ -1,6 +1,7 @@
 
 
-code from https://gitlab.com/shaktiproject/cores/riscv-tests/-/blob/master/isa/rv64um/mulw.S?ref_type=heads see 
+
+code from https://gitlab.com/shaktiproject/cores/riscv-tests/-/blob/master/isa/rv64um/mulw.S?ref_type=heads # See LICENSE for license details. 
 
 # mulw.S
 #-----------------------------------------------------------------------------

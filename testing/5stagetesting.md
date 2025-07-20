@@ -5,7 +5,7 @@
 <br> bsc -sim -e mk_tb_int_multiplier -o tb_int_multiplier_5stage_sim
 <br> ./tb_int_multiplier_5stage_sim
 
-<br> Multiplier module: https://gitlab.com/shaktiproject/cores/mbox/-/blob/master/pipelined_multiplier/int_multiplier_pipelined_4stages.bsv?ref_type=heads
+<br> Multiplier module: https://gitlab.com/shaktiproject/cores/mbox/-/blob/master/pipelined_multiplier/int_multiplier_pipelined_5stages.bsv?ref_type=heads
 <br> mk_tb_int_multiplier.bsv - 
 
 package mk_tb_int_multiplier;

@@ -5,3 +5,16 @@
 <br> bsc -sim -e mk_tb_int_multiplier -o tb_int_multiplier_2_sim
 <br> ./tb_int_multiplier_2_sim
 ![WhatsApp Image 2025-07-19 at 17 31 09_17faaf85](https://github.com/user-attachments/assets/4a927a00-9c1d-44ab-856d-fbaf1b94ef6c)
+
+<br> Multiplier module: https://gitlab.com/shaktiproject/cores/mbox/-/blob/master/pipelined_multiplier/int_multiplier_pipelined_4stages.bsv?ref_type=heads
+
+
+package mk_tb_int_multiplier;
+import tb_new5:: *;
+
+(* synthesize *)
+module mk_tb_int_multiplier();
+    mk_tb_int_multiplier_pipelined_4stages();
+endmodule
+
+endpackage

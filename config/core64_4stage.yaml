@@ -1,4 +1,4 @@
-// only the mul_stages_in : 4 changed all other are same as the ccore64.yaml
+// only the mul_stages_in:4 changed all other are same as the ccore64.yaml
 isb_sizes:
     isb_s0s1: 2
     isb_s1s2: 2

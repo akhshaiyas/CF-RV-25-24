@@ -128,8 +128,8 @@ make
 
 ---
 ## Authors and Supervisors
-###Akhshaiya S 
-###Krishnashree D
+### Akhshaiya S 
+### Krishnashree D
 
 Mentors: Dr. Nitya Ranganathan, Mr. Sriram (SHAKTI Team)
 

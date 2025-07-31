@@ -48,8 +48,11 @@ A modular hardware project to enhance the SHAKTI C-Class RISC-V processor with p
 │   ├── 5stage_tb.md
 │   ├── testing_bsc.md
 ├── docs/
-│   ├── report.pdf
+│   ├── Week3.md
+│   ├── Workflow.md
+│   ├── RSICV_report.pdf
 ├── README.md
+
 
  ```
 ---

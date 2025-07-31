@@ -1,7 +1,7 @@
 # Replacement of Integer Multiplier in SHAKTI C-Class Core
 
-A modular hardware project to enhance the SHAKTI C-Class RISC-V processor with pipelined integer multipliers (4-stage and 5-stage), replacing the original combinational design for improved throughput and performance in arithmetic-heavy workloads.
-
+C-Class core RTL implementation and simulation: Integrate atleast two different integer multipliers (with different latencies) from Shakti mbox repository and evaluate using set of benchmarks given by Shakti team. Compare performance of all multipliers. Extra credit: Running comparisons on FPGA (with matrix multiplication and integer list tests)
+al design 
 ---
 
 ##  Directory Structure

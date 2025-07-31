@@ -1,7 +1,7 @@
 # Replacement of Integer Multiplier in SHAKTI C-Class Core
+## Problem statement:
+####              C-Class core RTL implementation and simulation: Integrate atleast two different integer multipliers (with different latencies) from Shakti mbox repository and evaluate using set of benchmarks given by Shakti team. Compare performance of all multipliers. 
 
-C-Class core RTL implementation and simulation: Integrate atleast two different integer multipliers (with different latencies) from Shakti mbox repository and evaluate using set of benchmarks given by Shakti team. Compare performance of all multipliers. Extra credit: Running comparisons on FPGA (with matrix multiplication and integer list tests)
-al design 
 ---
 
 ##  Directory Structure
@@ -135,9 +135,6 @@ make
 ### Krishnashree D
 
 Mentors: Dr. Nitya Ranganathan, Mr. Sriram (SHAKTI Team)
-
- License
-MIT License (LICENSE)
 
 IITM/Institutional License (LICENSE.iitm) where referenced
 ---
